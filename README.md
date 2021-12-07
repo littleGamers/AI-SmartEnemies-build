@@ -30,7 +30,7 @@ Scene Path: **[Assets/Scenes/SmartEnemies.unity](Assets/Scenes/SmartEnemies.unit
 
 ### New Scripts:
 
-**[PlayerCatcher](Assets/PlayerCatcher.cs) -** Used ny enemies to handle the catching of a player.
+**[SmartEnemy](Assets/SmartEnemy.cs) -** Used ny enemies to handle the catching of a player.
 <br />
 
 ## External Links
