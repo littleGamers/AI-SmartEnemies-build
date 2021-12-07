@@ -26,7 +26,7 @@ Get close to brave and coward enemies to see what happens.
 
 ## Components
 
-Scene Path: **[Assets/Scenes/unity](Assets/Scenes/SmartEnemies.unity)**
+Scene Path: **[Assets/Scenes/SmartEnemies.unity](Assets/Scenes/SmartEnemies.unity)**
 
 ### New Scripts:
 
