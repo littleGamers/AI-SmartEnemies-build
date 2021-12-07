@@ -8,7 +8,6 @@ Coward: choose the maximum distance target from player - the farthest target.
 Brave: choose the minimum distance target from player - the closest target.
 
 EngineDestroyer: Searching for the engine as a target and destroys it.
-
 <br/>
 
 ## Instructions:
@@ -23,7 +22,6 @@ Run from chaser.
 Check if the engine was destroyed by the EngineDestroyer.
 
 Get close to brave and coward enemies to see what happens.
-
 <br/>
 
 ## Components
